@@ -6,4 +6,4 @@
 
 ## Toutes les Informations à propos de NepTech sont a retrouvér sur le Wiki juste en dessous :
 
-[Liens vers le wiki]([https://www.google.com](https://github.com/amin240/Amin-et-Mohamed-Amin/wiki])
+[Liens vers le wiki]([https://www.google.com](https://github.com/amin240/Amin-et-Mohamed-Amin/wiki)
