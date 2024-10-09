@@ -10,6 +10,6 @@ Cette startup peut être la solution à la décarbonisation des fleuves françai
 
 
 
-## Toutes les Informations à propos de NepTech sont a retrouvér sur le Wiki juste en dessous :
+## Toutes les informations à propos de NepTech sont a retrouver sur le Wiki juste en dessous :
 
 [Liens vers le wiki](https://github.com/amin240/Amin-et-Mohamed-Amin/wiki)
