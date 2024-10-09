@@ -1,4 +1,4 @@
-## Bienvenue dans notre Github, Ici vous pourrez vous informez sur l'entreprise NepTech.
+## Bienvenue dans notre Github, ici vous pourrez vous informez sur l'entreprise NepTech.
 
 # NepTech, Innovation dans la GreenTech
 
