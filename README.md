@@ -1,6 +1,10 @@
-## Bienvenue dans notre Github, ici vous pourrez vous informez sur l'entreprise NepTech.
+# Bienvenue dans notre Github, ici vous pourrez vous informez sur l'entreprise NepTech.
 
-# NepTech, Innovation dans la GreenTech
+### Vous pourrez trouver ces informations ci-dessous, dans le wiki, ou encore si vous voulez encore plus d'information, sur le site de l'Entreprise.
+
+  
+
+## NepTech, Innovation dans la GreenTech
 
 ***Neptech*** est une **startup Genentech** fondée en 2020 à Aix-en-Provence par 3 personnes **Tanguy Goetz, Corentin Bigot, et Clément Rousset**. **Tanguy Goetz** est **CEO** chez NepTech, **Corentin Bigot** est **responsable Ingénierie**, et **Clément Rousset** est **responsable ingénierie**. Leur but est de **développer une technologie innovante** afin de **décarboner les transport maritime et fluvial** et donc de **réduire la pollution des océan et fleuve**.
 Ainsi ils font une **levée de fond de 1.2 million d’euro** en 2024, et ils conçoivent avec l’aide de **EODecv des moteur zéro émission** ou encore des **technologies permettant de réduire la consommation énergétique des bateaux**. Leurs **moteurs sont prometteurs** puisqu’en 2023 il teste le **premier prototype** de ce **moteur à hydrogène** qui a été valider.
