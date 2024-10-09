@@ -1,4 +1,4 @@
-# Bienvenue dans notre Github, ici vous pourrez vous informez sur l'entreprise NepTech.
+# Bienvenue dans notre Github ! Ici vous pourrez vous informez sur l'entreprise NepTech.
 
 ### Vous pourrez trouver ces informations ci-dessous, dans le wiki, ou encore si vous voulez encore plus d'information, sur le site de l'Entreprise.
 
