@@ -13,13 +13,9 @@ Après ces résultats satisfaisants, la startup propose et vend des **bateaux de
 Cette startup peut être la **solution à la décarbonisation des fleuves français** en sachant que la **pollution marine participe grandement au déclin de la biodiversité marine** en France et de cette manière, cela donnerait un exemple sur la **transition écologique** au autre pays.
 
 ### Vidéo de présentation
-
-<video width="700" controls>
-    <!-- markdownlint-disable MD033 -->
-      <source src="https://youtu.be/6uwd5W-InS8?si=fEGomaiNnjJyyaEQ" type="video/mp4">
-      Votre navigateur ne supporte pas la balise video HTML 5.
-      <!-- markdownlint-enable MD033 -->
-</video>
+<!-- markdownlint-disable MD033 -->
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/6uwd5W-InS8?si=fEGomaiNnjJyyaEQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- markdownlint-enable MD033 -->
 
 ## Toutes les informations à propos de NepTech sont a retrouver sur le Wiki juste en dessous :
 
