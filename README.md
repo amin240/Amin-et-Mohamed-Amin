@@ -16,6 +16,7 @@ Cette startup peut être la **solution à la décarbonisation des fleuves franç
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/6uwd5W-InS8?si=zE1wGG_zLtQu7rTJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+
 ## Toutes les informations à propos de NepTech sont a retrouver sur le Wiki juste en dessous :
 
 
