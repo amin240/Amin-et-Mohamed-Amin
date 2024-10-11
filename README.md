@@ -1,6 +1,6 @@
 # Bienvenue dans notre Github ! Ici vous pourrez vous informez sur l'entreprise NepTech.
 ![](https://github.com/amin240/Amin-et-Mohamed-Amin/blob/main/Capture%20du%202024-10-08%2017-12-18.png)
-### Vous pourrez trouver ces informations ci-dessous, dans le wiki, ou encore si vous voulez encore plus d'information, sur le site de l'Entreprise.
+### Vous pourrez trouver ces informations ci-dessous, dans le wiki, ou si vous voulez encore plus d'information, sur le site de l'Entreprise.
 
   
 
@@ -12,9 +12,13 @@ Ainsi ils font une **levée de fond de 1.2 million d’euro** en 2024, et ils co
 Après ces résultats satisfaisants, la startup propose et vend des **bateaux de tout genre** allant de **bateaux de tourisme** a **bateaux de recherche scientifique** ou encore **bateaux de transport de marchandise**. De plus ils construisent **des bateaux sur mesure** et **personnalisée** par le **client**.
 Cette startup peut être la **solution à la décarbonisation des fleuves français** en sachant que la **pollution marine participe grandement au déclin de la biodiversité marine** en France et de cette manière, cela donnerait un exemple sur la **transition écologique** au autre pays.
 
+### Vidéo de présentation
 
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/6uwd5W-InS8?si=zE1wGG_zLtQu7rTJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Toutes les informations à propos de NepTech sont a retrouver sur le Wiki juste en dessous :
+
+
 
 [Lien vers le wiki](https://github.com/amin240/Amin-et-Mohamed-Amin/wiki)
 
