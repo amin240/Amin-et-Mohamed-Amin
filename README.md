@@ -1,4 +1,4 @@
-# Bienvenue dans notre Github ! Ici vous pourrez vous informez sur l'entreprise NepTech.
+# Bienvenue ! Ici vous pourrez vous informez sur l'entreprise NepTech.
 ![](https://github.com/amin240/Amin-et-Mohamed-Amin/blob/main/Capture%20du%202024-10-08%2017-12-18.png)
 ### Vous pourrez trouver ces informations ci-dessous, dans le wiki, ou si vous voulez encore plus d'information, sur le site de l'Entreprise.
 
