@@ -12,6 +12,10 @@ Ainsi ils font une **levée de fond de 1.2 million d’euro** en 2024, et ils co
 Après ces résultats satisfaisants, la startup propose et vend des **bateaux de tout genre** allant de **bateaux de tourisme** a **bateaux de recherche scientifique** ou encore **bateaux de transport de marchandise**. De plus ils construisent **des bateaux sur mesure** et **personnalisée** par le **client**.
 Cette startup peut être la **solution à la décarbonisation des fleuves français** en sachant que la **pollution marine participe grandement au déclin de la biodiversité marine** en France et de cette manière, cela donnerait un exemple sur la **transition écologique** au autre pays.
 
+### Vidéo de présentation
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](http://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
+
+
 ## Toutes les informations à propos de NepTech sont a retrouver sur le Wiki juste en dessous :
 
 
