@@ -23,3 +23,5 @@ Cette startup peut être la **solution à la décarbonisation des fleuves franç
 **Source :**
 
 [Lien de l'entreprise](https://neptech.co/)
+
+> NepTech : Intelligent sea mobility.
